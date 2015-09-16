@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:56:53.198668
+#+DATE: 2015-08-30 20:56:55.576384
 #+TITLE: 成唯識寶生論
 #+PROPERTY: CBETA_ID T31n1591
 #+PROPERTY: ID KR6n0056
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1591
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0056_T_000-0077b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0056_T_004-0089c> ¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《成唯識寶生論》卷第四(一名二十唯識順釋論)¶
+《成唯識寶生論》卷第四(一名二十唯識順釋論)¶
 ¶
 護法菩薩造¶
 大唐三藏法師義淨奉　制譯¶
@@ -154,7 +153,7 @@
 便成無片非愛。於彼五聚皆依他起。是所許¶
 故。遍計分別法性之義。可由於此理同於彼。¶
 現有如斯正教言故。若言其色亦有離識。實¶
-依他起。猶如受等。如斯意趣有不定𠎝所執¶
+依他起。猶如受等。如斯意趣有不定[億-音+(夫*夫)]所執¶
 之分亦有識故。即此受等緣生之分。斯則是¶
 為四聚體性。然此現其影相之分。即是依於¶
 心心生聚而施設故。由斯道理其喻必成。而¶
