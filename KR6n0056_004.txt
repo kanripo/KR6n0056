@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:56:53.198668
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:39
 #+TITLE: 成唯識寶生論
 #+PROPERTY: CBETA_ID T31n1591
 #+PROPERTY: ID KR6n0056
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1591
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0056_T_000-0077b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0056_T_004-0089c> ¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《成唯識寶生論》卷第四(一名二十唯識順釋論)¶
+《成唯識寶生論》卷第四(一名二十唯識順釋論)¶
 ¶
 護法菩薩造¶
 大唐三藏法師義淨奉　制譯¶

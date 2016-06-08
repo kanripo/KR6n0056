@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:56:53.159917
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:39
 #+TITLE: 成唯識寶生論
 #+PROPERTY: CBETA_ID T31n1591
 #+PROPERTY: ID KR6n0056
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1591
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0056_T_000-0077b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0056_T_003-0085b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《成唯識寶生論》卷第三(一名二十唯識順釋論)¶
+《成唯識寶生論》卷第三(一名二十唯識順釋論)¶
 ¶
 護法菩薩造¶
 大唐三藏法師義淨奉　制譯¶
@@ -103,9 +102,9 @@
 「　多瞋為墋業
 　好行罪惡事¶
 　見苦心歡悅
-　當生琰摩卒
+　當生琰摩卒」
 #+END_VERSE
-」¶
+¶
 
 由非此相那洛迦有。若此伽他是實義者。如¶
 何輒爾作如是言。其獄卒等非有情數。隨¶
@@ -137,7 +136,7 @@
 諸獄卒類未必要須同形量等然與彼卒墋毒¶
 可畏。見便生怖。高大形軀非常威壯。設有形¶
 量可容相似。然彼身形含毒可畏。如篾戾車。¶
-見便悚懼。是能害者。設使此類軀貌矬[坐*委]。¶
+見便悚懼。是能害者。設使此類軀貌矬󰤴[坐*委]。¶
 由其稟性是猛利故。縱令敵者形狀偉大。情¶
 不比數事同草芥。陵篾彼徒力有容裕。此亦¶
 未能閑他意趣幽邃深義。然彼疎失。我且恕¶
